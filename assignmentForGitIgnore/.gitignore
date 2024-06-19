@@ -1,0 +1,2 @@
+*.txt #ignore all file in txt extension
+*.css #ignore all files in css extension
